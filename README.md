@@ -41,7 +41,7 @@ For additional information and resources related to the EpicChain platform and i
 - [EpicChain Demo Application on GitHub](https://github.com/epic-chain/epicchain-demo)
 - [EpicChain Smart Contract Templates and Examples on GitHub](https://github.com/epicchainlabs/epicchain-smart-contracts)
 - [EpicChain SDK on GitHub](https://github.com/epic-chain/epicchain-sdk)
-- [EpicChain Chrome Extension on GitHub](https://github.com/epicchainlabs/epicchain-chrome-extension)
+- [EpicChain Chrome Extension on GitHub](https://github.com/epicchainlabs/epicchain-seraph-id-chrome)
 - [EpicChain DID Resolver on GitHub](https://github.com/epicchainlabs/epicchain-did-driver)
 
 These resources provide further insights into EpicChain's features, tools, and extensions, helping you explore and utilize the full potential of the platform.
